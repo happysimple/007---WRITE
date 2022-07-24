@@ -1,5 +1,5 @@
 # -- Project configuration -----------------------------------------------------
-project = 'Write'
+project = 'Writing'
 author = '王开心'
 copyright = '2022, 王开心'
 release = '1.0.0'

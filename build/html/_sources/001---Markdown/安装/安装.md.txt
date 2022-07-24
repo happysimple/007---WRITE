@@ -1,0 +1,6 @@
+# 安装
+
+1. Typora——Markdown编辑器
+2. CSS主题
+3. Pandoc——文档格式转换工具
+4. PiGo+Github——图床

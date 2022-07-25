@@ -22,12 +22,10 @@
 
 ---
 
----
-
 ```{toctree}
 :maxdepth: 2
 :hidden:
 
-001---Markdown/语法/index
+001---Markdown/index
 002---LaTex/index
 ```
